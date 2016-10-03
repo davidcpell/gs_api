@@ -1,15 +1,8 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  user: one
+  user: david
   game: one
-  level: one
-  score: 1
-  win: false
-
-two:
-  user: two
-  game: two
-  level: two
-  score: 1
-  win: false
+  level: "Hang 'em High"
+  score: 100
+  win: true
